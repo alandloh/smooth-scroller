@@ -5,7 +5,7 @@
  Description:   Smooth scroller by Aleph Media.
  Author:        Aleph Media
  Author URI:    https://alephmedia.my
- Version:       0.1
+ Version:       0.2
  Update URI:    false
 
  GitHub Plugin URI:  https://github.com/alandloh/smooth-scroller
