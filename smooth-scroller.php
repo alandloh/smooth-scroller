@@ -5,7 +5,7 @@
  Description:   Smooth scroller by Aleph Media.
  Author:        Aleph Media
  Author URI:    https://alephmedia.my
- Version:       0.4
+ Version:       0.5
  Update URI:    false
 
  GitHub Plugin URI:  https://github.com/alandloh/smooth-scroller
@@ -13,7 +13,6 @@
 */
 
 
-wp_enqueue_scripts(
 add_action( 
     'wp_enqueue_scripts', 
     function() {
